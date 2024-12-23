@@ -7,8 +7,8 @@ Sau Khi tạo xong thì mở dự án bằng eclipse, vào src/main/java/com/sup
 Các thông tin để đăng nhập:
 Cần phải chọn ô select vai trò ứng với nhân viên hoặc khách 
 - Vai trò nhân viên:
-  + tên đăng nhập: Thrillseeker
-  + mật khẩu: $r^tbs5$
+  + tên đăng nhập: Gunsmoke
+  + mật khẩu: q7t30ij0
 - Vai trò nhân viên admin:
   + tên đăng nhập: hoang0207
   + mật khẩu: 02072003
