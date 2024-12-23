@@ -1,4 +1,5 @@
 Để chạy dự án, đầu tiên cần phải khởi tạo database bằng SQL Server, file database để tạo database đặt trong src/DataBase
+
 Sau Khi tạo xong thì mở dự án bằng eclipse, vào src/main/java/com/supermarket/UI và chạy file ChaoJDialog.java
 
 ------------------------------------------------------------------------------------------------------------------------------
