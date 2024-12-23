@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-18T11:26:03 ICT" name="Default suite" finished-at="2024-07-18T11:26:08 ICT" duration-ms="4433">
+    <groups>
+    </groups>
+    <test started-at="2024-07-18T11:26:03 ICT" name="Default test" finished-at="2024-07-18T11:26:08 ICT" duration-ms="4433">
+      <class name="com.supermarket.UI.ChaoJDialogTest">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.supermarket.UI.ChaoJDialogTest@662ac478]" started-at="2024-07-18T11:26:03 ICT" name="beforeTest" finished-at="2024-07-18T11:26:03 ICT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.supermarket.UI.ChaoJDialogTest@662ac478]" started-at="2024-07-18T11:26:03 ICT" name="beforeMethod" finished-at="2024-07-18T11:26:04 ICT" duration-ms="349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testChaoJDialogLoading()[pri:0, instance:com.supermarket.UI.ChaoJDialogTest@662ac478]" started-at="2024-07-18T11:26:04 ICT" name="testChaoJDialogLoading" finished-at="2024-07-18T11:26:08 ICT" duration-ms="4015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChaoJDialogLoading -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.supermarket.UI.ChaoJDialogTest@662ac478]" started-at="2024-07-18T11:26:08 ICT" name="afterMethod" finished-at="2024-07-18T11:26:08 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.supermarket.UI.ChaoJDialogTest@662ac478]" started-at="2024-07-18T11:26:08 ICT" name="afterTest" finished-at="2024-07-18T11:26:08 ICT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.supermarket.UI.ChaoJDialogTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
